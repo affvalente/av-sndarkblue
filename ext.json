@@ -6,7 +6,7 @@
   "version": "1.1",
   "description": "Standard Notes Dark theme with blue highlights",
   "url": "https://cdn.jsdelivr.net/gh/affvalente/av-sndarkblue@master/darkblue.css",
-  "download_url": "https://github.com/affvalente/sn-sndarkblue/archive/refs/heads/main.zip",
+  "download_url": "https://github.com/affvalente/av-sndarkblue/archive/refs/heads/main.zip",
   "latest_url": "https://cdn.jsdelivr.net/gh/affvalente/av-sndarkblue@master/ext.json",
   "dock_icon": {
     "type": "circle",
